@@ -1,4 +1,4 @@
-#include <stdio.h>
+output#include <stdio.h>
 
 #include "swap.h"
 
