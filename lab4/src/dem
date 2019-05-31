@@ -1,0 +1,3 @@
+./#!/bin/bash 
+./parallel --seed 5 --array_size 1000 --threads_num 3
+
